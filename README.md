@@ -14,7 +14,7 @@
   Set up Microsoft Sentinel, developed custom analytics rules, triaged incidents, and strengthened organizational detection capabilities.
 
 - **Wireless Network Security Exploitation**
-- [Attack on WLAN](https://github.com/ddss23/Attacks-on-WLAN.git)  
+  [Attack on WLAN](https://github.com/ddss23/Attacks-on-WLAN.git)  
   Assessed WLAN vulnerabilities using Aircrack-ng, Bettercap, and Wireshark. Executed deauth attacks, DNS spoofing, rogue AP setups, and Wi-Fi jamming.
 
 - **SS7 Attack Simulation**  
