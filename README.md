@@ -13,8 +13,9 @@
   [SIEM Monitoring, Custom Rules, Incident Response](https://github.com/ddss23/Microsoft-Sentinel-SIEM-Deployment-and-Configuration.git)  
   Set up Microsoft Sentinel, developed custom analytics rules, triaged incidents, and strengthened organizational detection capabilities.
 
-- **Wireless Network Security Exploitation**  
-  Assessed WLAN vulnerabilities using Aircrack-ng, Bettercap, Wireshark. Executed deauth attacks, DNS spoofing, rogue AP setups, and Wi-Fi jamming.
+- **Wireless Network Security Exploitation** 
+  [Attack on WLAN](https://github.com/ddss23/Attacks-on-WLAN.git)  
+  Assessed WLAN vulnerabilities using Aircrack-ng, Bettercap, and Wireshark. Executed deauth attacks, DNS spoofing, rogue AP setups, and Wi-Fi jamming.
 
 - **SS7 Attack Simulation**  
   [SS7 Vulnerability Testing with SiGploit](https://github.com/ddss23/SS7-attack-on-emulated-environment-.git)  
@@ -22,7 +23,7 @@
 
 - **RSA Cryptography Implementation**  
   [Secure Encryption/Decryption System](https://github.com/ddss23/RSA-Cryptography-Implementation.git)  
-  Built an RSA encryption/decryption system from scratch, covering key generation, encryption algorithms, and cryptographic defenses.
+  Built an RSA encryption/decryption system, covering key generation, encryption algorithms, and cryptographic defenses.
 
 ---
 
